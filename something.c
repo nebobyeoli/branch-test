@@ -9,6 +9,9 @@ int main(void)
     printf("This is a something\n");
     printf("Hello World!");
 
+    // yea this removed the visuals of the branch
+    // alabhama!
+
     int do_a = 'a';
     int do_b = 'b';
 
