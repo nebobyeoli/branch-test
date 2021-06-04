@@ -22,5 +22,7 @@ int main(void)
     int do_c = 'c-alabhama';
     printf("HI.\n");
 
+    printf("This is really strange... from second.\n");
+
     return 0;
 }
