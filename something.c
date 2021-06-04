@@ -17,5 +17,7 @@ int main(void)
 
     int do_c = 'c-alabhama';
 
+    printf("This is really strange... from second.\n");
+
     return 0;
 }
