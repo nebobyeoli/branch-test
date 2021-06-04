@@ -18,6 +18,7 @@ int main(void)
     // THIS IS FROM THIRD.
 
     int do_c = 'c-alabhama';
+    printf("HI.\n");
 
     return 0;
 }
