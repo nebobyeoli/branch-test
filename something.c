@@ -2,6 +2,8 @@
 
 int main(void)
 {
+    printf("ok this is really really really strange -- from main.\n");
+
     // I did something in main!
     // Try merging from github on-the-site?
 
@@ -15,7 +17,10 @@ int main(void)
     int do_a = 'a';
     int do_b = 'b';
 
+    // THIS IS FROM THIRD.
+
     int do_c = 'c-alabhama';
+    printf("HI.\n");
 
     printf("This is really strange... from second.\n");
 
