@@ -10,6 +10,7 @@ int main(void)
     printf("Hello World!");
 
     int do_a = 'a';
-    
+    int do_b = 'b';
+
     return 0;
 }
