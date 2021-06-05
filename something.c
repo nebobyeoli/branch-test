@@ -14,6 +14,8 @@ int main(void)
     // yea this removed the visuals of the branch
     // alabhama!
 
+    printf("SECOND EXAMPLE EDIT FOR EUNGA!\n");
+
     int do_a = 'a';
     int do_b = 'b';
 
